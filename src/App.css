@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+.login-container{
+  margin-top: 8%;
+  margin-bottom: 4%;
+}
+.login-form-1{
+  padding: 3%;
+  margin-left: 277px;
+  box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 9px 26px 0 rgba(0, 0, 0, 0.19);
+}
+.login-container form{
+  padding: 10%;
+}
+.login-container button
+{
+    width: 53%;
+    padding: 1.5%;
+    margin-top:8%;
+    border: none;
+    cursor: pointer;
+}
